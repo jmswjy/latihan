@@ -1,0 +1,29 @@
+/*CALLOUT*/
+.bs-callout-info {
+	border-left-color: #5bc0de;
+}
+
+.bs-callout-info h3 {
+color: #5bc0de;
+}
+
+.bs-callout {
+	padding: 20px;
+	margin: 20px 0;
+	border: 1px solid #eee;
+	border-left-width: 5px;
+	border-radius: 3px;
+}
+
+/*FOOTER*/
+.footer {
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+	height: 60px;
+	background-color: #eee;
+}
+
+.container .text-muted {
+	margin: 20px 0;
+}
